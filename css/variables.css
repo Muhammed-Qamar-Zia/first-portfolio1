@@ -1,0 +1,83 @@
+:root {
+    /* Color Palette */
+    --primary-color: #8A2BE2; /* Purple */
+    --secondary-color: #4169E1; /* Royal Blue */
+    --dark-purple: #4B0082; /* Indigo */
+    --light-purple: #9370DB; /* Medium Purple */
+    --dark-blue: #191970; /* Midnight Blue */
+    --light-blue: #6495ED; /* Cornflower Blue */
+    
+    /* Background Colors */
+    --bg-dark: #121212; /* Very Dark */
+    --bg-medium: #1E1E2E; /* Dark with slight purple tint */
+    --bg-light: #2D2D3A; /* Slightly lighter dark */
+    --bg-card: #282838; /* Card background */
+    
+    /* Text Colors */
+    --text-primary: #FFFFFF;
+    --text-secondary: #E0E0E0;
+    --text-tertiary: #BBBBBB;
+    --text-muted: #888888;
+    
+    /* Accent Colors */
+    --accent-success: #4CAF50;
+    --accent-warning: #FFC107;
+    --accent-danger: #F44336;
+    
+    /* Typography */
+    --font-primary: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    --font-secondary: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    --font-monospace: 'Consolas', 'Courier New', monospace;
+    
+    /* Font Sizes */
+    --font-size-xxl: 3.5rem;
+    --font-size-xl: 2.5rem;
+    --font-size-lg: 1.8rem;
+    --font-size-md: 1.25rem;
+    --font-size-base: 1rem;
+    --font-size-sm: 0.875rem;
+    --font-size-xs: 0.75rem;
+    
+    /* Font Weights */
+    --font-weight-light: 300;
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-bold: 700;
+    
+    /* Spacing */
+    --spacing-xxs: 0.25rem;
+    --spacing-xs: 0.5rem;
+    --spacing-sm: 1rem;
+    --spacing-md: 1.5rem;
+    --spacing-lg: 2rem;
+    --spacing-xl: 3rem;
+    --spacing-xxl: 5rem;
+    
+    /* Border Radius */
+    --border-radius-sm: 0.25rem;
+    --border-radius-md: 0.5rem;
+    --border-radius-lg: 1rem;
+    --border-radius-full: 50%;
+    
+    /* Shadows */
+    --shadow-sm: 0 2px 5px rgba(0, 0, 0, 0.2);
+    --shadow-md: 0 4px 10px rgba(0, 0, 0, 0.25);
+    --shadow-lg: 0 8px 16px rgba(0, 0, 0, 0.3);
+    
+    /* Transitions */
+    --transition-fast: 0.2s ease-in-out;
+    --transition-normal: 0.3s ease-in-out;
+    --transition-slow: 0.5s ease-in-out;
+    
+    /* Z-index */
+    --z-negative: -1;
+    --z-base: 1;
+    --z-dropdown: 1000;
+    --z-sticky: 1020;
+    --z-fixed: 1030;
+    --z-modal: 1040;
+    --z-tooltip: 1050;
+    --z-popover: 1060;
+    /* custom vars */
+    
+} 
